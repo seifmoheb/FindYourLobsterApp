@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Find Your Lobster</string>
+    <string name="free_subscription">You are on free subscription<br></br>
+        Benefits:<br></br>
+        1. Free unlimited swipes<br></br>
+        2. 1 free super-swipe everyday<br></br>
+        3. Take a friends related quiz/trivia and get a discount on premium subscription<br></br>
+        4. You can share up to 5 photos to your gallery<br></br>
+        5. You can chat with your matches<br></br>
+        6. You get 1 free rewind daily<br></br>
+        7. Filter with age or location or gender<br></br>
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hyperlink">By submitting, you agree to our <a href="">Terms of Service
+    and Privacy Policy</a></string>
+    <string name="forgot_password"> <a href="">Forgot password?</a></string>
+    <string name="appLink">Download <a href="">Find your lobster</a> dating app, enjoy the FRIENDS themed application, find your lobster and get along. All you have to do is swipe right. Use this promo code to have one free super like: </string>
+    <string name="facebook_app_id">2748985128678419</string>
+    <string name="fb_login_protocol_scheme">fb2748985128678419</string>
+    <string name="title_activity_change_password">ChangePasswordActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="action_deleted">Deleted</string>
+
+</resources>

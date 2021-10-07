@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723757526989",
+    "firebase_url": "https://findyourlobster-9234f.firebaseio.com",
+    "project_id": "findyourlobster-9234f",
+    "storage_bucket": "findyourlobster-9234f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723757526989:android:ebfc0752e7d8d3f09ede84",
+        "android_client_info": {
+          "package_name": "com.app.findyourlobster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723757526989-essreskffs2sc5bcc7od610c63tu4pun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGV_EG0IAxRMV6dGfVJPLWsCa1xf6U_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723757526989-essreskffs2sc5bcc7od610c63tu4pun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

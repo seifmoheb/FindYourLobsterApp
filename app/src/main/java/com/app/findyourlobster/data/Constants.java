@@ -1,0 +1,6 @@
+package com.app.findyourlobster.data;
+
+public class Constants {
+    public static final String Monthly = "premiumsubscription";
+    public static final String base64EncodedPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApJWBqAJyBsRgjFEGvaZaswdriIhTySt7VDGulor8nE+GXq8l2AgOXYZl+jal974hJy+ObOtAI/JnlLrinYlOcRN3aprVTtPto83PZbpYdr6lh8EYX/gN4MSKEx27OD/JbTRV+BXKrl2q5HKT2tWplXO0xFGXBh/2Ft16NMkaYVEMvr6efWwuObRjog/hjIM9BHD+I4YpsqUjjNBT8jAvXC4QNa9ZGh47t7wQweVI1Vbj4102dzgi6M+kUehAiuCrsCij6mWCnjv3/RQCnPrXgutarlM+sB9GpYnGJHDyYz3Rkl5u7uqXsztEVRnVjWTqb1TyOlZyE8+sKY2oGaUrAQIDAQAB";
+}
